@@ -7,7 +7,7 @@ package sortinsertion;
 import java.util.*;
 /**
  * Strategy : Finding left side minimum and replace it with the current element.
- * @author PC
+ *
  */
 public class SortInsertion {
 
