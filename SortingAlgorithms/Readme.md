@@ -6,4 +6,4 @@
 <h2>Radix Sort</h2>
 </br>
 <h2>Quick Sort</h2>
-<p>Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting.</p>
+<p>Developed by British computer scientist Tony Hoare in 1959 and published in 1961, it is still a commonly used algorithm for sorting.In place divide and conqur algorithm with comparitive strategy.At every level of function call we partition step which ensures number maginitude order. Every we are breaking at decayed exponential way we move throgh all elements to reach sort.Hence the worst case complexity of the algorithm is order of n squared.</p>
